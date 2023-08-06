@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "message":"message",
+  "data":  {
+    "username": "username",
+    "country": "country",
+    "merchant_name": "merchant_name",
+    "merchant_type": "merchant_type",
+    "otp_ref_code":"REFG",
+    "otp_verify_token":"sdmflksndlkfsdl;gkfdo0iopi345rklnfm,.gndfg;lop345ilm"
+    }
+  }

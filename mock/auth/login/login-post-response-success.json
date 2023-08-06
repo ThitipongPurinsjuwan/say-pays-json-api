@@ -1,0 +1,10 @@
+{
+  "status": 200,
+  "success":true,
+  "data":  {
+    "username": "username",
+    "country": "country",
+    "merchant_name": "merchant_name",
+    "merchant_type": "merchant_type"
+    }
+  }
