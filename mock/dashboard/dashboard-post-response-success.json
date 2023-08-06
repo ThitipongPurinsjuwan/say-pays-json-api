@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "success": true,
+  "data": {
+    "merchant_id": 0,
+    "date_start": "2017-01-01",
+    "date_end": "2017-01-31",
+    "sales": 0,
+    "profit": 0,
+    "discount": 0,
+    "bill": {
+      "total": 0,
+      "average": 0,
+      "total_cancel": 0,
+      "total_value": 0
+    },
+    "summary": {
+      "total_before_discount": 0,
+      "total_discount": 0,
+      "total_taxable": 0,
+      "total_free_tax": 0,
+      "total_vat": 0,
+      "total_service": 0,
+      "total_summary": 0
+    },
+    "best_seller": [
+      {
+        "no": 1,
+        "product_id": 1,
+        "product_name": "product name",
+        "quantity": 0,
+        "sales": 0
+      }
+    ],
+    "best_category": [
+      {
+        "no": 1,
+        "category_id": 1,
+        "category_name": "category name",
+        "quantity": 0,
+        "sales": 0
+      }
+    ]
+  }
+}
