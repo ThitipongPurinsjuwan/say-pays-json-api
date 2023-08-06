@@ -11,8 +11,8 @@
     "bill": {
       "total": 0,
       "average": 0,
-      "total_cancel": 0,
-      "total_value": 0
+      "cancel": 0,
+      "cancel_value": 0
     },
     "summary": {
       "total_before_discount": 0,
