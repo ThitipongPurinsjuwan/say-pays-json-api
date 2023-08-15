@@ -1,0 +1,62 @@
+[
+  {
+    "title": "พนักงาน",
+    "key": "employee_name"
+  },
+  {
+    "title": "ยอดขายทั้งหมด",
+    "key": "total_sales"
+  },
+  {
+    "title": "เงินสด",
+    "key": "cash"
+  },
+  {
+    "title": "โอน (พร้อมเพย์)",
+    "key": "promptpay"
+  },
+  {
+    "title": "บัตรเครดิต",
+    "key": "credit_card"
+  },
+  {
+    "title": "คูปอง",
+    "key": "coupon"
+  },
+  {
+    "title": "มัดจำ",
+    "key": "deposit"
+  },
+  {
+    "title": "อื่นๆ",
+    "key": "others"
+  },
+  {
+    "title": "บิลทั้งหมด",
+    "key": "total_bill"
+  },
+  {
+    "title": "บิลที่ขาย",
+    "key": "bill_sold"
+  },
+  {
+    "title": "บิลยกเลิก",
+    "key": "bill_cancel"
+  },
+  {
+    "title": "บิลมัดจำ",
+    "key": "bill_deposit"
+  },
+  {
+    "title": "บิลที่ทำส่วนลด",
+    "key": "bill_discount"
+  },
+  {
+    "title": "ส่วนลดท้ายบิล",
+    "key": "discount_end_of_bill"
+  },
+  {
+    "title": "ส่วนลดในรายการ",
+    "key": "discount_on_item"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":1,
+  "total_page":1,
+  "page_size":1,
+  "current_page":1,
+  "data": [
+    {
+      "id": 1,
+      "product_number": "PLU8734639274",
+      "product_name": "Beacon Version 1.1",
+      "product_group":"Petdy",
+      "unit":"1 /Piece",
+      "remaining":200
+    }
+  ]
+}

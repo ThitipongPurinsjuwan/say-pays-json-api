@@ -1,0 +1,46 @@
+[
+  {
+    "title": "วันที่",
+    "dataIndex": "date"
+  },
+  {
+    "title": "รอบขายที่",
+    "dataIndex": "sale_round_number"
+  },
+  {
+    "title": "เวลาปิดรอบขาย",
+    "dataIndex": "sales_close_time"
+  },
+  {
+    "title": "ปิดรอบขายโดย",
+    "dataIndex": "close_by"
+  },
+  {
+    "title": "ยอดขายด้วยเงินสด",
+    "dataIndex": "cash_sales"
+  },
+  {
+    "title": "เงินทอนเริ่มต้น",
+    "dataIndex": "initial_change"
+  },
+  {
+    "title": "เงินเข้า",
+    "dataIndex": "money_in"
+  },
+  {
+    "title": "เงินออก",
+    "dataIndex": "money_out"
+  },
+  {
+    "title": "จำนวนเงินที่นับได้ในลิ้นชัก",
+    "dataIndex": "money_count_in_drawer"
+  },
+  {
+    "title": "จำนวนเงินที่ควรมีในลิ้นชัก",
+    "dataIndex": "money_should_in_drawer"
+  },
+  {
+    "title": "ส่วนต่าง",
+    "dataIndex": "money_difference"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":2,
+  "total_page":1,
+  "page_size":10,
+  "current_page":1,
+  "data": {
+    "total_bill": 13,
+    "total_sales":12560,
+    "total_free_tax":27,
+    "total_value_before_vat": 12553,
+    "total_tax": 0,
+    "data" :[
+      {
+        "date":"01/04/2566",
+        "invoice_number_start":"PS001000062",
+        "invoice_number_end":"PS001000062",
+        "free_tax":27,
+        "value_before_vat":11660,
+        "value_before_tax":0,
+        "amount":11660
+      },
+      {
+        "date":"02/04/2566",
+        "invoice_number_start":"PS001000070",
+        "invoice_number_end":"PS001000072",
+        "free_tax":0,
+        "value_before_vat":900,
+        "value_tax":0,
+        "amount":900
+      }
+    ]
+  }
+}

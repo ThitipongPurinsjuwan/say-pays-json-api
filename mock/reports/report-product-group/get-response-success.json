@@ -1,0 +1,16 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":1,
+  "total_page":1,
+  "page_size":10,
+  "current_page":1,
+  "data": [
+    {
+      "id": 1,
+      "product_group": "Hair Salon",
+      "sales":1099.5,
+      "quantity":20
+    }
+  ]
+}

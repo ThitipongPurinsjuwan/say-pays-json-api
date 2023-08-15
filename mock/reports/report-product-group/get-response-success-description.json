@@ -1,0 +1,14 @@
+[
+  {
+    "title": "กลุ่มสินค้า",
+    "dataIndex": "product_group"
+  },
+  {
+    "title": "ยอดขาย",
+    "dataIndex": "sales"
+  },
+  {
+    "title": "จำนวน",
+    "dataIndex": "quantity"
+  }
+]

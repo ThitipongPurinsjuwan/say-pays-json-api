@@ -1,0 +1,22 @@
+[
+  {
+    "title": "รหัสสินค้า",
+    "dataIndex": "product_number"
+  },
+  {
+    "title": "ชื่อสินค้า",
+    "dataIndex": "product_name"
+  },
+  {
+    "title": "กลุ่มสินค้า",
+    "dataIndex": "product_group"
+  },
+  {
+    "title": "ราคาทุน",
+    "dataIndex": "cost_price"
+  },
+  {
+    "title": "คงเหลือ",
+    "dataIndex": "balance"
+  }
+]

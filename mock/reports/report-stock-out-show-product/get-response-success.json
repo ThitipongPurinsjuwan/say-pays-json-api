@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":1,
+  "total_page":1,
+  "page_size":1,
+  "current_page":1,
+  "data": [
+    {
+      "date_time": "01/04/2566 09:08:03",
+      "invoice_number": "RCV0000007",
+      "bill_number": "Test-123456",
+      "product_number":"8855790000523",
+      "product_name":"Carabora Expresso",
+      "unit":"1 / กระป๋อง",
+      "quantity":20,
+      "price_per_unit":10,
+      "discount":0,
+      "net_sale":200,
+      "status":"ใช้งาน"
+    }
+  ]
+}

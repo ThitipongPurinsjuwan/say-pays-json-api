@@ -1,0 +1,74 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":20,
+  "total_page":2,
+  "page_size":1,
+  "current_page":1,
+  "data": [
+    {
+      "date": "01/04/2566 13:12:43",
+      "invoice_number": "PS001000057",
+      "before_discount": 240,
+      "discount": 0,
+      "amount": 240,
+      "taxable": 0,
+      "free_tax": 240,
+      "value_before_vat": 0,
+      "value_before_tax": 0,
+      "service": 0,
+      "round_number": 0,
+      "order_status": "ปกติ",
+      "order_detail": {
+        "sum_discount": 0,
+        "service_charge": 0,
+        "cash": 2000,
+        "change": 0,
+        "product_list": [
+          {
+            "invoice_number": "PS001000057",
+            "product_number": "9859287076883",
+            "product_name": "เสื้อยืด",
+            "quantity": 1,
+            "price": 2000,
+            "discount_per_item": 0,
+            "sale_before_discount": 2000,
+            "net_sale": 2000
+          }
+        ]
+      }
+    },
+    {
+      "date": "01/04/2566 13:12:43",
+      "invoice_number": "PS001000058",
+      "before_discount": 240,
+      "discount": 0,
+      "amount": 240,
+      "taxable": 0,
+      "free_tax": 240,
+      "value_before_vat": 0,
+      "value_before_tax": 0,
+      "service": 0,
+      "round_number": 0,
+      "order_status": "ปกติ",
+      "order_detail": {
+        "sum_discount": 0,
+        "service_charge": 0,
+        "cash": 2000,
+        "change": 0,
+        "product_list": [
+          {
+            "invoice_number": "PS001000057",
+            "product_number": "9859287076883",
+            "product_name": "เสื้อยืด",
+            "quantity": 1,
+            "price": 2000,
+            "discount_per_item": 0,
+            "sale_before_discount": 2000,
+            "net_sale": 2000
+          }
+        ]
+      }
+    }
+  ]
+}

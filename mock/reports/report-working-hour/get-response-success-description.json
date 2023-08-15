@@ -1,0 +1,22 @@
+[
+  {
+    "title": "วันที่",
+    "dataIndex": "date"
+  },
+  {
+    "title": "ชื่อพนักงาน",
+    "dataIndex": "employee_name"
+  },
+  {
+    "title": "เวลาเข้างาน",
+    "dataIndex": "time_in"
+  },
+  {
+    "title": "เวลาออกงาน",
+    "dataIndex": "time_off"
+  },
+  {
+    "title": "ชั่วโมงทำงาน",
+    "dataIndex": "working_hour"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "title": "SKU CODE",
+    "dataIndex": "sku_code"
+  },
+  {
+    "title": "รหัสบาร์โค้ด",
+    "dataIndex": "bar_code"
+  },
+  {
+    "title": "กลุ่มสินค้า",
+    "dataIndex": "product_group"
+  },
+  {
+    "title": "ชื่อสินค้า",
+    "dataIndex": "product_name"
+  },
+  {
+    "title": "ราคาขาย",
+    "dataIndex": "selling_price"
+  },
+  {
+    "title": "ต้นทุน",
+    "dataIndex": "cost"
+  },
+  {
+    "title": "หน่วยบรรจุ",
+    "dataIndex": "unit"
+  },
+  {
+    "title": "Ratio",
+    "dataIndex": "ratio"
+  },
+  {
+    "title": "VAT",
+    "dataIndex": "vat"
+  },
+  {
+    "title": "Type",
+    "dataIndex": "type"
+  },
+  {
+    "title": "หมายเลขผลิตภัณฑ์ (SN)",
+    "dataIndex": "serial_number"
+  }
+]

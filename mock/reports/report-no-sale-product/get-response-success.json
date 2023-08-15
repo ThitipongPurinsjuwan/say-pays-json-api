@@ -1,0 +1,24 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":2,
+  "total_page":1,
+  "page_size":10,
+  "current_page":1,
+  "data": [
+    {
+      "product_number": "4381284530187",
+      "product_name": "เบียร์",
+      "product_group": "Retail",
+      "cost_price": 1,
+      "balance": 20
+    },
+    {
+      "product_number": "4381284530190",
+      "product_name": "เลย์",
+      "product_group": "Retail",
+      "cost_price": 1,
+      "balance": -200
+    }
+  ]
+}

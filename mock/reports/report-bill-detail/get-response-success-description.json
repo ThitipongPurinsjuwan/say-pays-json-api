@@ -1,0 +1,38 @@
+[
+  {
+    "title": "วันที่",
+    "dataIndex": "date"
+  },
+  {
+    "title": "เลขที่ใบกำกับ",
+    "dataIndex": "invoice_number"
+  },
+  {
+    "title": "รหัสสินค้า",
+    "dataIndex": "product_number"
+  },
+  {
+    "title": "ชื่อสินค้า",
+    "dataIndex": "product_name"
+  },
+  {
+    "title": "จำนวน",
+    "dataIndex": "quantity"
+  },
+  {
+    "title": "ราคาขาย / หน่วย",
+    "dataIndex": "price_per_unit"
+  },
+  {
+    "title": "ยอดขายก่อนลด",
+    "dataIndex": "before_discount"
+  },
+  {
+    "title": "ส่วนลด",
+    "dataIndex": "discount"
+  },
+  {
+    "title": "ยอดสุทธิ",
+    "dataIndex": "net_sale"
+  }
+]

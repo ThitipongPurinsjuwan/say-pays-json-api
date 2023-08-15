@@ -1,0 +1,50 @@
+[
+  {
+    "title": "วันที่",
+    "dataIndex": "date"
+  },
+  {
+    "title": "วันที่อัพเดต",
+    "dataIndex": "updated_date"
+  },
+  {
+    "title": "เลขที่รายการ",
+    "dataIndex": "item_number"
+  },
+  {
+    "title": "ยอดขายก่อนลด",
+    "dataIndex": "before_discount"
+  },
+  {
+    "title": "ส่วนลด",
+    "dataIndex": "discount"
+  },
+  {
+    "title": "จำนวนเงิน",
+    "dataIndex": "amount"
+  },
+  {
+    "title": "สินค้ามีภาษี",
+    "dataIndex": "taxable"
+  },
+  {
+    "title": "สินค้าไม่มีภาษี",
+    "dataIndex": "free_tax"
+  },
+  {
+    "title": "มูลค่าสินค้าก่อน Vat",
+    "dataIndex": "value_before_vat"
+  },
+  {
+    "title": "สมาชิก",
+    "dataIndex": "member"
+  },
+  {
+    "title": "หมายเหตุท้ายบิล",
+    "dataIndex": "note_end_of_bill"
+  },
+  {
+    "title": "สถานะ",
+    "dataIndex": "order_status"
+  }
+]

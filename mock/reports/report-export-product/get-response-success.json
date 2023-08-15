@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":1,
+  "total_page":1,
+  "page_size":1,
+  "current_page":1,
+  "data": [
+    {
+      "sku_code": "19083110083",
+      "bar_code": "PLU7269908740",
+      "product_group": "Food",
+      "product_name":"Brown Fish Fillet",
+      "selling_price":200,
+      "cost":0,
+      "unit":"plate",
+      "ratio":1,
+      "vat":"V",
+      "type":"SV",
+      "serial_number":"-"
+    }
+  ]
+}

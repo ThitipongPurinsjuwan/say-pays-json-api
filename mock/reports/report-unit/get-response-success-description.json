@@ -1,0 +1,27 @@
+[
+ 
+  {
+    "title": "รหัสสินค้า",
+    "dataIndex": "product_number"
+  },
+  {
+    "title": "ชื่อสินค้า",
+    "dataIndex": "product_name"
+  },
+  {
+    "title": "กลุ่มสินค้า",
+    "dataIndex": "product_group"
+  },
+  {
+    "title": "ขายได้จำนวน",
+    "dataIndex": "sale_item_quantity"
+  },
+  {
+    "title": "คงเหลือ",
+    "dataIndex": "balance"
+  },
+  {
+    "title": "ยอดขาย",
+    "dataIndex": "sales"
+  }
+]

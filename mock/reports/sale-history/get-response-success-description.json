@@ -1,0 +1,50 @@
+[
+  {
+    "title": "วันที่",
+    "dataIndex": "date"
+  },
+  {
+    "title": "เลขที่ใบกำกับ",
+    "dataIndex": "invoice_number"
+  },
+  {
+    "title": "ยอดขายก่อนลด",
+    "dataIndex": "before_discount"
+  },
+  {
+    "title": "ส่วนลด",
+    "dataIndex": "discount"
+  },
+  {
+    "title": "จำนวนเงิน",
+    "dataIndex": "amount"
+  },
+  {
+    "title": "สินค้ามีภาษี",
+    "dataIndex": "taxable"
+  },
+  {
+    "title": "สินค้าไม่มีภาษี",
+    "dataIndex": "free_tax"
+  },
+  {
+    "title": "มูลค่าสินค้าก่อน Vat",
+    "dataIndex": "value_before_vat"
+  },
+  {
+    "title": "คิดเป็นมูลค่าก่อนภาษี",
+    "dataIndex": "value_before_tax"
+  },
+  {
+    "title": "ค่าบริการ",
+    "dataIndex": "service"
+  },
+  {
+    "title": "ปัดเศษ",
+    "dataIndex": "round_number"
+  },
+  {
+    "title": "สถานะ",
+    "dataIndex": "order_status"
+  }
+]

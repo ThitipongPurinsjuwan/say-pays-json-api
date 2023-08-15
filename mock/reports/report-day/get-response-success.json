@@ -1,0 +1,18 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":20,
+  "total_page":2,
+  "page_size":1,
+  "current_page":1,
+  "data": [
+    {
+      "date": "01/04/2566",
+      "before_discount": 1220,
+      "discount": 0,
+      "value_tax": 0,
+      "service_charge": 0,
+      "amount": 1220
+    }
+  ]
+}

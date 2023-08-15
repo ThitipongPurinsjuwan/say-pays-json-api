@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":1,
+  "total_page":1,
+  "page_size":1,
+  "current_page":1,
+  "data": [
+    {
+      "date": "01/04/2566",
+      "sale_round_number": 1,
+      "sales_close_time": "-",
+      "close_by": "-",
+      "cash_sales":0,
+      "initial_change":3000,
+      "money_in":0,
+      "money_out":0,
+      "money_count_in_drawer":0,
+      "money_should_in_drawer":0,
+      "money_difference":0
+    }
+  ]
+}

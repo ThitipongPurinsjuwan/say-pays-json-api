@@ -1,0 +1,26 @@
+[
+  {
+    "title": "วันที่",
+    "dataIndex": "date"
+  },
+  {
+    "title": "ยอดขายก่อนลด",
+    "dataIndex": "before_discount"
+  },
+  {
+    "title": "ส่วนลด",
+    "dataIndex": "discount"
+  },
+  {
+    "title": "คิดเป็นมูลค่าภาษี",
+    "dataIndex": "value_tax"
+  },
+  {
+    "title": "ค่าบริการ",
+    "dataIndex": "service_charge"
+  },
+  {
+    "title": "จำนวนเงิน",
+    "dataIndex": "amount"
+  }
+]

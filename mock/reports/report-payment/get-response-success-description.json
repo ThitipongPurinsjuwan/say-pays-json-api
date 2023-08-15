@@ -1,0 +1,34 @@
+[
+  {
+    "title": "วันที่",
+    "dataIndex": "date"
+  },
+  {
+    "title": "ชำระรวม",
+    "dataIndex": "total_payment"
+  },
+  {
+    "title": "เงินสด",
+    "dataIndex": "cash"
+  },
+  {
+    "title": "โอน (พร้อมเพย์)",
+    "dataIndex": "promptpay"
+  },
+  {
+    "title": "บัตรเครดิต",
+    "dataIndex": "credit_card"
+  },
+  {
+    "title": "คูปอง",
+    "dataIndex": "coupon"
+  },
+  {
+    "title": "มัดจำ",
+    "dataIndex": "deposit"
+  },
+  {
+    "title": "อื่นๆ",
+    "dataIndex": "others"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":2,
+  "total_page":1,
+  "page_size":10,
+  "current_page":1,
+  "data": [
+    {
+      "product_number": "4381284530187",
+      "product_name": "เบียร์",
+      "product_group": "Retail",
+      "sale_item_quantity": 1,
+      "balance": -20,
+      "sales": 1000
+    },
+    {
+      "product_number": "4381284530187",
+      "product_name": "เบียร์",
+      "product_group": "Retail",
+      "sale_item_quantity": 1,
+      "balance": "non-stock product",
+      "sales": 1000
+    }
+  ]
+}

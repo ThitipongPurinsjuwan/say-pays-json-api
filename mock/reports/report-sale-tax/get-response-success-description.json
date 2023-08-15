@@ -1,0 +1,54 @@
+[
+  {
+    "title": "จำนวนบิล",
+    "dataIndex": "total_bill"
+  },
+  {
+    "title": "ยอดสุทธิ",
+    "dataIndex": "total_sales"
+  },
+  {
+    "title": "สินค้าไม่มีภาษี",
+    "dataIndex": "total_free_tax"
+  },
+  {
+    "title": "มูลค่าสินค้าก่อน VAT",
+    "dataIndex": "total_value_before_vat"
+  },
+  {
+    "title": "คิดเป็นมูลค้าภาษี",
+    "dataIndex": "total_tax"
+  },
+  {
+    "data": [
+      {
+        "title": "วันที่",
+        "dataIndex": "date"
+      },
+      {
+        "title": "เลขที่บิลเริ่มต้น",
+        "dataIndex": "invoice_number_start"
+      },
+      {
+        "title": "เลขที่บิลสุดท้าย",
+        "dataIndex": "invoice_number_end"
+      },
+      {
+        "title": "สินค้าไม่มีภาษี",
+        "dataIndex": "free_tax"
+      },
+      {
+        "title": "มูลค่าสินค้าก่อน Vat",
+        "dataIndex": "value_before_vat"
+      },
+      {
+        "title": "คิดเป็นมูลค่าก่อนภาษี",
+        "dataIndex": "value_tax"
+      },
+      {
+        "title": "จำนวนเงิน",
+        "dataIndex": "amount"
+      }
+    ]
+  }
+]

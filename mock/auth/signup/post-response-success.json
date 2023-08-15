@@ -1,6 +1,6 @@
 {
   "status": 200,
-  "message":"message",
+  "success": true,
   "data":  {
     "username": "username",
     "country": "country",

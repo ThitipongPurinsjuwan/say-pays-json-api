@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":1,
+  "total_page":1,
+  "page_size":10,
+  "current_page":1,
+  "data": [
+    {
+      "id": 1,
+      "date": "01/04/2566",
+      "total_payment":25000,
+      "cash":15000,
+      "promptpay":5000,
+      "credit_card":5000,
+      "coupon":0,
+      "deposit":0,
+      "others":0
+    }
+  ]
+}

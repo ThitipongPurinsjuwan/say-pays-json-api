@@ -1,0 +1,27 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":1,
+  "total_page":1,
+  "page_size":1,
+  "current_page":1,
+  "data": [
+    {
+      "employee_name": "Admin",
+      "total_sales": 11889,
+      "cash": 11000,
+      "promptpay":889,
+      "credit_card":0,
+      "coupon":0,
+      "deposit":0,
+      "others":0,
+      "total_bill":9,
+      "bill_sold":0,
+      "bill_cancel":0,
+      "bill_deposit":0,
+      "bill_discount":0,
+      "discount_end_of_bill":0,
+      "discount_on_item":0
+    }
+  ]
+}

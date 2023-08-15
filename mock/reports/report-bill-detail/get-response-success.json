@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":20,
+  "total_page":2,
+  "page_size":1,
+  "current_page":1,
+  "data": [
+    {
+      "date": "01/04/2566 13:12:43",
+      "invoice_number": "PS001000057",
+      "product_number": "PLU5805598592",
+      "product_name": "Mocca Hot",
+      "quantity": 1,
+      "price_per_unit": 50,
+      "before_discount": 50,
+      "discount": 0,
+      "net_sale": 50
+    }
+  ]
+}

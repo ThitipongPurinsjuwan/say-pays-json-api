@@ -1,0 +1,26 @@
+[
+  {
+    "title": "วันที่",
+    "dataIndex": "date"
+  },
+  {
+    "title": "จำนวนบิล",
+    "dataIndex": "total_bill"
+  },
+  {
+    "title": "ยอดขายก่อนลด",
+    "dataIndex": "sales_before_discount"
+  },
+  {
+    "title": "ส่วนลด",
+    "dataIndex": "discount"
+  },
+  {
+    "title": "ภาษีมูลค่าเพิ่ม",
+    "dataIndex": "total_vat"
+  },
+  {
+    "title": "จำนวนเงิน",
+    "dataIndex": "amount"
+  }
+]
