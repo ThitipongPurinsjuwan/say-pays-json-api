@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":2,
+  "total_page":1,
+  "page_size":10,
+  "current_page":1,
+  "data": [
+    {
+      "id":1,
+      "product_name": "Beacon Version 1.1",
+      "unit": "Piece",
+      "product_group": "Petdy",
+      "quantity": -200
+    },
+    {
+      "id":2,
+      "product_number": "PLU8734639275",
+      "product_name": "Brown Fish Filter",
+      "unit": "Plate",
+      "product_group": "Food",
+      "quantity": "non-stock"
+    }
+  ]
+}

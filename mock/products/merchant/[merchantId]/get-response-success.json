@@ -1,0 +1,34 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":2,
+  "total_page":1,
+  "page_size":10,
+  "current_page":1,
+  "data": [
+    {
+      "id":1,
+      "product_image": "Group 165931.png",
+      "url_product_image": "/icons/Group 165931.png",
+      "product_number": "4902345678901",
+      "product_name": "Samsung Galaxy J8",
+      "unit": "Unit / 1",
+      "quantity_in_stock": 111,
+      "before_adjust_quantity": 499,
+      "check_quantity": 900,
+      "adjust_quantity": -499
+    },
+    {
+      "id":2,
+      "product_image": "Group 165931.png",
+      "url_product_image": "/icons/Group 165931.png",
+      "product_number": "8851234567890",
+      "product_name": "iPhone X",
+      "unit": "Unit / 1",
+      "quantity_in_stock": 222,
+      "before_adjust_quantity": -3,
+      "check_quantity": 40,
+      "adjust_quantity": 37
+    }
+  ]
+}

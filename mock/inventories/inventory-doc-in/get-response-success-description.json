@@ -1,0 +1,30 @@
+[
+  {
+    "title": "วันที่อัพเดต",
+    "dataIndex": "updated_at"
+  },
+  {
+    "title": "วันที่ซื้อในบิล",
+    "dataIndex": "purchase_date_on_bill"
+  },
+  {
+    "title": "เลขที่เอกสาร",
+    "dataIndex": "invoice_number"
+  },
+  {
+    "title": "เลขที่ในบิล",
+    "dataIndex": "bill_number"
+  },
+  {
+    "title": "ยอดรวม",
+    "dataIndex": "total"
+  },
+  {
+    "title": "ผู้จัดจำหน่าย",
+    "dataIndex": "seller"
+  },
+  {
+    "title": "ชื่อผู้ใช้",
+    "dataIndex": "username"
+  }
+]

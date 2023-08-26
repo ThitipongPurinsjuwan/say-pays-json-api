@@ -7,9 +7,50 @@
   "current_page":1,
   "data": [
     {
+      "ref_number": "2308090159",
       "date": "01/04/2566 13:12:43",
       "updated_date": "01/04/2566 13:12:43",
       "item_number": "#230615-DJMNVQIT",
+      "merchant_name":"FMG SALON สาขา Heaadquarters",
+      "before_discount": 240,
+      "discount": 0,
+      "amount": 240,
+      "taxable": 0,
+      "free_tax": 240,
+      "value_before_vat": 0,
+      "value_before_tax": 0,
+      "member":"-",
+      "note_end_of_bill":"",
+      "order_status": "ปกติ",
+      "product_list": [
+          {
+            "product_number": "PLU8679590812",
+            "product_name": "Croissant",
+            "unit": "1 / Piece",
+            "quantity": 1,
+            "price": 180,
+            "discount_per_item": 0,
+            "sale_before_discount": 180,
+            "net_sale": 180
+          },
+          {
+            "product_number": "PLU8673490812",
+            "product_name": "Ley",
+            "unit": "1 / Piece",
+            "quantity": 1,
+            "price": 60,
+            "discount_per_item": 0,
+            "sale_before_discount": 60,
+            "net_sale": 60
+          }
+        ]
+    },
+    {
+      "ref_number": "2308090160",
+      "date": "01/04/2566 13:12:43",
+      "updated_date": "01/04/2566 13:12:43",
+      "item_number": "#230615-DJMNVQIT",
+      "merchant_name":"FMG SALON สาขา Heaadquarters",
       "before_discount": 240,
       "discount": 0,
       "amount": 240,

@@ -1,0 +1,28 @@
+{
+  "status": 200,
+  "success": true,
+  "data": {
+    "id":1,
+    "invoice_number":"12345678",
+    "seller_id":1,
+    "seller":"Kie",
+    "stock_adjust_list":[
+      {
+        "id":1,
+        "product_number": "4902345678901",
+        "product_name": "Samsung Galaxy J8",
+        "before_adjust_quantity": 499,
+        "check_quantity": 900,
+        "adjust_quantity": 499
+      },
+      {
+        "id":2,
+        "product_number": "8851234567890",
+        "product_name": "iPhone X",
+        "before_adjust_quantity": -3,
+        "check_quantity": 40,
+        "adjust_quantity": 37
+      }
+    ]
+  }
+}

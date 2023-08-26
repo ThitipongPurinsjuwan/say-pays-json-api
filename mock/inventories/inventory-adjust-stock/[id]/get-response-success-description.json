@@ -1,0 +1,41 @@
+[
+  {
+    "title": "เลขที่เอกสาร",
+    "dataIndex": "invoice_number"
+  },
+  {
+    "title": "ผู้จำหน่าย",
+    "dataIndex": "seller_id"
+  },
+  {
+    "title": "ผู้จำหน่าย",
+    "dataIndex": "seller"
+  },
+  {
+    "title": "รายการปรับปรุงสต๊อก",
+    "dataIndex": "stock_adjust_list",
+    "data": [
+      {
+        "title": "รหัสสินค้า",
+        "dataIndex": "product_number"
+      },
+      {
+        "title": "ชื่อสินค้า",
+        "dataIndex": "product_name"
+      },
+     
+      {
+        "title": "ก่อนปรับปรุง",
+        "dataIndex": "before_adjust_quantity"
+      },
+      {
+        "title": "ยอดตรวจนับ",
+        "dataIndex": "check_quantity"
+      },
+      {
+        "title": "ปรับปรุง",
+        "dataIndex": "adjust_quantity"
+      }
+    ]
+  }
+]

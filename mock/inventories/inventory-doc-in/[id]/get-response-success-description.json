@@ -1,0 +1,60 @@
+[
+  {
+    "title": "วันที่ซื้อในบิล",
+    "dataIndex": "purchase_date_on_bill"
+  },
+  {
+    "title": "เลขที่ซื้อในบิลซื้อ",
+    "dataIndex": "bill_number"
+  },
+  {
+    "title": "ผู้จำหน่าย",
+    "dataIndex": "seller"
+  },
+  {
+    "title": "หมายเหตุ",
+    "dataIndex": "note"
+  },
+  {
+    "title": "สินค้ารวมภาษี",
+    "dataIndex": "tax_include"
+  },
+  {
+    "title": "ส่วนลดพิเศษ",
+    "dataIndex": "special_discount"
+  },
+  {
+    "title": "รายการสินค้ารับเข้า",
+    "dataIndex": "product_incoming_list",
+    "data": [
+      {
+        "title": "รหัสสินค้า",
+        "dataIndex": "product_number"
+      },
+      {
+        "title": "ชื่อสินค้า",
+        "dataIndex": "product_name"
+      },
+      {
+        "title": "หน่วยบรรจุ",
+        "dataIndex": "unit"
+      },
+      {
+        "title": "จำนวน",
+        "dataIndex": "quantity"
+      },
+      {
+        "title": "หน่วยละ",
+        "dataIndex": "unit_price"
+      },
+      {
+        "title": "ภาษีมูลค่าเพิ่ม",
+        "dataIndex": "vat"
+      },
+      {
+        "title": "ส่วนลด",
+        "dataIndex": "discount"
+      }
+    ]
+  }
+]

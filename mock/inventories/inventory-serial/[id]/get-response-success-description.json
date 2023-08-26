@@ -1,0 +1,26 @@
+[
+  {
+    "title": "หมายเลขผลิตภัณฑ์",
+    "dataIndex": "serial_no"
+  },
+  {
+    "title": "สถานะ",
+    "dataIndex": "status"
+  },
+  {
+    "title": "สร้างเมื่อ",
+    "dataIndex": "created_at"
+  },
+  {
+    "title": "สร้างโดย",
+    "dataIndex": "created_by"
+  },
+  {
+    "title": "ปรับปรุงเมื่อ",
+    "dataIndex": "updated_at"
+  },
+  {
+    "title": "ปรับปรุงโดย",
+    "dataIndex": "updated_by"
+  }
+]

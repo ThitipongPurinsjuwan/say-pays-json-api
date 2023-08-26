@@ -1,0 +1,30 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":2,
+  "total_page":1,
+  "page_size":10,
+  "current_page":1,
+  "data": [
+    {
+      "id":1,
+      "updated_at": "01/04/2566 09:08:03",
+      "purchase_date_on_bill": "15/04/2566",
+      "invoice_number": "ISO0000003",
+      "bill_number": "Test-978",
+      "total": 1630,
+      "seller": "Kie",
+      "username": "Admin"
+    },
+    {
+      "id":2,
+      "updated_at": "17/01/2566 09:08:03",
+      "purchase_date_on_bill": "17/01/2566",
+      "invoice_number": "A-0000001",
+      "bill_number": "Test 1234",
+      "total": 1630,
+      "seller": "เอนก",
+      "username": "Admin"
+    }
+  ]
+}

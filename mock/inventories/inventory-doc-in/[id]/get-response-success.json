@@ -1,0 +1,35 @@
+{
+  "status": 200,
+  "success": true,
+  "data": {
+    "purchase_date_on_bill":"01/04/2566 09:08:03",
+    "bill_number":"12345678",
+    "seller_id":1,
+    "seller":"Kie",
+    "note":"",
+    "tax_include":true,
+    "special_discount":0,
+    "product_incoming_list":[
+      {
+        "id":1,
+        "product_number": "4902345678901",
+        "product_name": "Samsung Galaxy J8",
+        "unit": "Unit / 1",
+        "quantity": 6,
+        "unit_price": 10,
+        "vat": 0,
+        "discount": 0
+      },
+      {
+        "id":2,
+        "product_number": "8851234567890",
+        "product_name": "iPhone X",
+        "unit": "Unit / 1",
+        "quantity": 6,
+        "unit_price": 10,
+        "vat": 0,
+        "discount": 0
+      }
+    ]
+  }
+}

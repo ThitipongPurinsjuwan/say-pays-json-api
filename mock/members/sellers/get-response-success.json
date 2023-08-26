@@ -1,0 +1,11 @@
+{
+  "status": 200,
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "username": "kim",
+      "full_name": "Kim K."
+    }
+  ]
+}

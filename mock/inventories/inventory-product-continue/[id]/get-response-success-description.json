@@ -1,0 +1,22 @@
+[
+  {
+    "title": "วันที่",
+    "dataIndex": "date"
+  },
+  {
+    "title": "เลขที่เอกสาร",
+    "dataIndex": "invoice_number"
+  },
+  {
+    "title": "ประเภท",
+    "dataIndex": "type"
+  },
+  {
+    "title": "จำนวน",
+    "dataIndex": "quantity"
+  },
+  {
+    "title": "ปรับปรุงโดย",
+    "dataIndex": "updated_by"
+  }
+]

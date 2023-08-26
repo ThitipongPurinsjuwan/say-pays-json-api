@@ -1,0 +1,18 @@
+[
+  {
+    "title": "วันที่อัพเดต",
+    "dataIndex": "updated_at"
+  },
+  {
+    "title": "เลขที่เอกสาร",
+    "dataIndex": "invoice_number"
+  },
+  {
+    "title": "ประเภท",
+    "dataIndex": "type"
+  },
+  {
+    "title": "ชื่อผู้ใช้",
+    "dataIndex": "username"
+  }
+]

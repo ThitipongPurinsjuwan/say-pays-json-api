@@ -1,0 +1,24 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":2,
+  "total_page":1,
+  "page_size":10,
+  "current_page":1,
+  "data": [
+    {
+      "product_number": "4902345678901",
+      "product_name": "Samsung Galaxy J8",
+      "unit": "Unit / 1",
+      "product_group": "Mobile",
+      "quantity": 6
+    },
+    {
+      "product_number": "8851234567890",
+      "product_name": "iPhone X",
+      "unit": "Unit / 1",
+      "product_group": "Mobile",
+      "quantity": 3
+    }
+  ]
+}

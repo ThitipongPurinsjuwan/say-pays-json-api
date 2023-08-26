@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "success": true,
+  "total_count":2,
+  "total_page":1,
+  "page_size":10,
+  "current_page":1,
+  "data": [
+    {
+      "id":1,
+      "date_time": "01/04/2566 09:08:03",
+      "invoice_number": "ISO0000003",
+      "type": "จ่ายสินค้าออก",
+      "quantity": 70,
+      "updated_by": "Admin"
+    },
+    {
+      "id":2,
+      "date_time": "17/01/2566 09:08:03",
+      "invoice_number": "A-0000001",
+      "type": "ปรับปรุงลด",
+      "quantity": -10,
+      "updated_by": "Admin"
+    }
+  ]
+}

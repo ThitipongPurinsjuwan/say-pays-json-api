@@ -1,0 +1,42 @@
+[
+  {
+    "title": "id สินค้า",
+    "dataIndex": "id"
+  },
+  {
+    "title": "รูปสินค้า",
+    "dataIndex": "product_image"
+  },
+  {
+    "title": "url รูปสินค้า",
+    "dataIndex": "url_product_image"
+  },
+  {
+    "title": "รหัสสินค้า",
+    "dataIndex": "product_number"
+  },
+  {
+    "title": "ชื่อสินค้า",
+    "dataIndex": "product_name"
+  },
+  {
+    "title": "หน่วยบรรจุ",
+    "dataIndex": "unit"
+  },
+  {
+    "title": "ก่อนปรับปรุง",
+    "dataIndex": "before_adjust_quantity"
+  },
+  {
+    "title": "ยอดตรวจนับ",
+    "dataIndex": "check_quantity"
+  },
+  {
+    "title": "ปรับปรุง",
+    "dataIndex": "adjust_quantity"
+  },
+  {
+    "title": "คงเหลือ",
+    "dataIndex": "quantity_in_stock"
+  }
+]

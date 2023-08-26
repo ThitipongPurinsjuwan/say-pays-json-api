@@ -1,0 +1,18 @@
+[
+  {
+    "title": "ชื่อสินค้า",
+    "dataIndex": "product_name"
+  },
+  {
+    "title": "หน่วยบรรจุ",
+    "dataIndex": "unit"
+  },
+  {
+    "title": "กลุ่มสินค้า",
+    "dataIndex": "product_group"
+  },
+  {
+    "title": "จำนวน",
+    "dataIndex": "quantity"
+  }
+]

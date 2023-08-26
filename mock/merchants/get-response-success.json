@@ -4,7 +4,8 @@
   "data": [
     {
       "id": 1,
-      "merchant_name": "FMG Salon - สำนักงานใหญ่"
+      "merchant_name": "FMG Salon",
+      "branch_name": "สำนักงานใหญ่"
     }
   ]
 }
