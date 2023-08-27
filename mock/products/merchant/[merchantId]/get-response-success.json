@@ -8,6 +8,7 @@
   "data": [
     {
       "id":1,
+      "merchant_id": 1,
       "product_image": "Group 165931.png",
       "url_product_image": "/icons/Group 165931.png",
       "product_number": "4902345678901",
@@ -20,6 +21,7 @@
     },
     {
       "id":2,
+      "merchant_id": 1,
       "product_image": "Group 165931.png",
       "url_product_image": "/icons/Group 165931.png",
       "product_number": "8851234567890",

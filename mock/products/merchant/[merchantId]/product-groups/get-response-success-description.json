@@ -1,0 +1,18 @@
+[
+  {
+    "title": "id กลุ่มสินค้า",
+    "dataIndex": "id"
+  },
+  {
+    "title": "id merchant",
+    "dataIndex": "merchant_id"
+  },
+  {
+    "title": "กลุ่มสินค้า",
+    "dataIndex": "product_group_name"
+  },
+  {
+    "title": "สถานะการเปิดใช้งาน",
+    "dataIndex": "enable"
+  }
+]

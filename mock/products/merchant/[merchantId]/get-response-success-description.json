@@ -4,6 +4,10 @@
     "dataIndex": "id"
   },
   {
+    "title": "id merchant",
+    "dataIndex": "merchant_id"
+  },
+  {
     "title": "รูปสินค้า",
     "dataIndex": "product_image"
   },
