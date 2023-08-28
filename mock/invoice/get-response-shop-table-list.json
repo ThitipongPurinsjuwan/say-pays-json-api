@@ -1,0 +1,22 @@
+{
+    "status": 200,
+    "success": true,
+    "data": [
+        {
+            "table_title": "Table No",
+            "table_name": "1"
+        },
+        {
+            "table_title": "Table No",
+            "table_name": "2"
+        },
+        {
+            "table_title": "Table No",
+            "table_name": "3"
+        },
+        {
+            "table_title": "Table No",
+            "table_name": "4"
+        }
+    ]
+}

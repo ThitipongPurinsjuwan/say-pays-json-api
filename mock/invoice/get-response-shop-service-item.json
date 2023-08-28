@@ -1,0 +1,114 @@
+{
+    "status": 200,
+    "success": true,
+    "data": [
+      {
+        "category_name": "สินค้ายอดนิยม",
+        "product": []
+      },
+      {
+        "category_name": "Hair cut",
+        "product": [
+          {
+            "id": "jsdfjfi1231w",
+            "product_name": "adult",
+            "price": 100,
+            "image": "assets/icon/scissors-icon.png",
+            "option": []
+          },
+          {
+            "id": "felkdclsfo2",
+            "product_name": "chidren",
+            "price": 400,
+            "image": "assets/icon/haircut-icon.png",
+            "option": []
+          }
+        ]
+      },
+      {
+        "category_name": "Blow & dry",
+        "product": [
+          {
+            "id": "dwfm3k2m23e",
+            "product_name": "Men-S",
+            "price": 100,
+            "image": "assets/icon/hair-dryer-icon.png",
+            "option": []
+          },
+          {
+            "id": "dsfmk2kekrm",
+            "product_name": "Men-m",
+            "price": 150,
+            "image": "assets/icon/hair-dryer-icon.png",
+            "option": []
+          },
+          {
+            "id": "dmcosdjcow33",
+            "product_name": "Men-L",
+            "price": 200,
+            "image": "assets/icon/hair-dryer-icon.png",
+            "option": []
+          },
+          {
+            "id": "dsfjkcm2",
+            "product_name": "Men-S",
+            "price": 100,
+            "image": "assets/icon/hair-dryer-icon.png",
+            "option": []
+          },
+          {
+            "id": "iurehncedzr3",
+            "product_name": "Men-m",
+            "price": 150,
+            "image": "assets/icon/hair-dryer-icon.png",
+            "option": []
+          },
+          {
+            "id": "jv99d0refgvre",
+            "product_name": "Men-L",
+            "price": 200,
+            "image": "assets/icon/hair-dryer-icon.png",
+            "option": []
+          }
+        ]
+      },
+      {
+        "category_name": "Salon",
+        "product": [
+          {
+            "id": "mvdvfdgvg9rer",
+            "product_name": "Hair Color",
+            "price": 1500,
+            "image": "assets/icon/MaskGroup28.png",
+            "option": [
+              {
+                "name": "red",
+                "price": 100
+              },
+              {
+                "name": "puple",
+                "price": 100
+              },
+              {
+                "name": "black",
+                "price": 100
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category_name": "UnCategory",
+        "product": [
+          {
+            "id": "nnbp0p69jdfv",
+            "product_name": "Cut Blow Dry",
+            "price": 5000,
+            "image": "assets/icon/cart-icon.png",
+            "option": []
+          }
+        ]
+      }
+  
+    ]
+  }
