@@ -1,0 +1,42 @@
+{
+  "status": 200,
+  "success": true,
+  "data": [
+    {
+      "id":1,
+      "product_option_name": "Hair Cut",
+      "product_option_is_require_select": false,
+      "product_option_select_quantity":10,
+      "sub_options":[
+        {
+          "id":3,
+          "name":"ไม่เลือก",
+          "price":0
+        },
+        {
+          "id":4,
+          "name":"red",
+          "price":400
+        }
+      ]
+    },
+    {
+      "id":2,
+      "product_option_name": "Coffee",
+      "product_option_is_require_select": false,
+      "product_option_select_quantity":10,
+      "sub_options":[
+        {
+          "id":5,
+          "name":"ไม่เลือก",
+          "price":0
+        },
+        {
+          "id":6,
+          "name":"red",
+          "price":400
+        }
+      ]
+    }
+  ]
+}

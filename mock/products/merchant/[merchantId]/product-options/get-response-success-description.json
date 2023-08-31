@@ -1,0 +1,29 @@
+[
+  {
+    "title": "id สินค้า",
+    "dataIndex": "id"
+  },
+  {
+    "title": "ชื่อกลุ่มตัวเลือก",
+    "dataIndex": "product_option_name"
+  },
+  {
+    "title": "ต้องการให้เลือก",
+    "dataIndex": "product_option_is_require_select"
+  },
+  {
+    "title": "จำนวนการเลือก",
+    "dataIndex": "product_option_select_quantity"
+  },
+  {
+    "title": "ตัวเลือกการใช้งาน",
+    "dataIndex": "sub_options",
+    "data:":[
+      {
+        "id":"id",
+          "name":"ชื่อตัวเลือก",
+          "price":"จำนวน"
+        }
+    ]
+  }
+]

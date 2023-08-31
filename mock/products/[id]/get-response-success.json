@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "success": true,
+  "data": {
+    "id":1,
+    "merchant_id": 1,
+    "product_image": "Group 165931.png",
+    "url_product_image": "/icons/Group 165931.png",
+    "product_number": "4902345678901",
+    "product_name": "Samsung Galaxy J8",
+    "product_group_id":2,
+    "product_group":"Mobile",
+    "product_option_id":1,
+    "product_option":"Hair Cut",
+    "product_unit_id":1,
+    "product_unit":"Hot",
+    "product_type":"สินค้าทั่วไป",
+    "unit": "Cup",
+    "unit_price": 100,
+    "is_favorite": true,
+    "have_vat": true,
+    "show_screen":true,
+    "is_quick_sales":true,
+    "is_popular":true,
+    "have_service_fee":true,
+    "quantity_in_stock": 111,
+    "before_adjust_quantity": 499,
+    "check_quantity": 900,
+    "adjust_quantity": -499,
+    "others_sales":[
+      {
+        "id":1,
+        "quantity":1,
+        "cost":0,
+        "sales":0,
+        "unit_price":50
+      }
+    ]
+  }
+}

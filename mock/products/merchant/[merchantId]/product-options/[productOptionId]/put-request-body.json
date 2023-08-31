@@ -1,0 +1,16 @@
+{
+  "id":1,
+  "product_option_name": "Hot",
+  "product_option_is_require_select": false,
+  "product_option_select_quantity":10,
+  "sub_options":[
+    {
+      "name":"ไม่เลือก",
+      "price":0
+    },
+    {
+      "name":"red",
+      "price":400
+    }
+  ]
+}

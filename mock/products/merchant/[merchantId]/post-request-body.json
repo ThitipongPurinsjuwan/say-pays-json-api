@@ -1,0 +1,27 @@
+{
+  "product_image": "Group 165931.png",
+  "product_number": "4902345678901",
+  "product_name": "Samsung Galaxy J8",
+  "product_group_id":2,
+  "product_option_id":1,
+  "product_unit_id":1,
+  "product_unit":"Hot",
+  "product_type":"สินค้าทั่วไป",
+  "unit": "Cup",
+  "unit_price": 100,
+  "is_favorite": true,
+  "have_vat": true,
+  "show_screen":true,
+  "is_quick_sales":true,
+  "is_popular":true,
+  "have_service_fee":true,
+  "others_sales":[
+    {
+      "id":1,
+      "quantity":1,
+      "cost":0,
+      "sales":0,
+      "unit_price":100
+    }
+  ]
+}
